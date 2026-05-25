@@ -26,6 +26,10 @@ Music is the first wedge. The thesis covers any creator-owned IP: songs, video, 
 | **Agent commerce** | x402 paid endpoints and ACP-ready surfaces for AI agents |
 | **Multichain rails** | Base, Solana, Ethereum, Avalanche, omnichain |
 
+## Recent press
+
+- **TechBullion** · May 2026 — [Jason Colapietro's Suede Labs AI Launches iOS Apps, Codex and Claude Skills, and the Musicians Terminal](https://techbullion.com/jason-colapietros-suede-labs-ai-launches-ios-apps/)
+
 ## Public repositories
 
 | Repository | Purpose |
