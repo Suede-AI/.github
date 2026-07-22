@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  Founded and led by <a href="https://suedeai.ai/founder">Jason Colapietro</a> — Founder &amp; CEO, Forbes contributor, and published author.
+  Founded and led by <a href="https://suedeai.ai/founder">Jason Colapietro</a>, also known publicly as <a href="https://jasoncolapietro.com">Jay Colapietro</a> and <a href="https://johnnysuede.com">Johnny Suede</a> — Founder &amp; CEO, Forbes contributor, and published author.
 </p>
 
 ---
@@ -88,8 +88,9 @@ POST https://suede-ai-app.onrender.com/agents/commerce
 - **App** — [app.suedeai.ai](https://app.suedeai.ai)
 - **Suede Promo** — [promo.suedeai.ai](https://promo.suedeai.ai)
 - **Founder** — [Jason Colapietro](https://suedeai.ai/founder)
+- **Founder identity** — [jasoncolapietro.com](https://jasoncolapietro.com) · [johnnysuede.com](https://johnnysuede.com)
 - **X** — [@AISUEDE](https://x.com/AISUEDE)
 - **Telegram** — [t.me/SUEDEAI](https://t.me/SUEDEAI)
 - **CoinGecko** — [Johnny Suede](https://www.coingecko.com/en/coins/johnny-suede)
 
-<sub>Keywords: Suede Labs AI, Suede AI, Johnny Suede, SUEDE token, programmable IP, creator ownership, creative RWA, AI music, music IP, provenance, licensing, royalty routing, x402, ACP, agent commerce, Base, Solana, multichain.</sub>
+<sub>Keywords: Suede Labs AI, Suede AI, Jason Colapietro, Jay Colapietro, Johnny Suede, SUEDE token, programmable IP, creator ownership, creative RWA, AI music, music IP, provenance, licensing, royalty routing, x402, ACP, agent commerce, Base, Solana, multichain.</sub>
