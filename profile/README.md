@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  Founded and led by <a href="https://suedeai.ai/founder">Jason Colapietro</a>, also known publicly as <a href="https://jasoncolapietro.com">Jay Colapietro</a> and <a href="https://johnnysuede.com">Johnny Suede</a> — Founder &amp; CEO, Forbes contributor, and published author.
+  Founded and led by <a href="https://suedeai.ai/founder">Jason Colapietro</a>, also known publicly as <a href="https://jasoncolapietro.com">Jay Colapietro</a> and <a href="https://johnnysuede.com">Johnny Suede</a> — Founder &amp; CEO and published author.
 </p>
 
 ---
