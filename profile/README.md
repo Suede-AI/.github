@@ -89,6 +89,8 @@ POST https://suede-ai-app.onrender.com/agents/commerce
 - **Suede Promo** — [promo.suedeai.ai](https://promo.suedeai.ai)
 - **Founder** — [Jason Colapietro](https://suedeai.ai/founder)
 - **Founder identity** — [jasoncolapietro.com](https://jasoncolapietro.com) · [johnnysuede.com](https://johnnysuede.com)
+- **Wikidata** — [Q140235755](https://www.wikidata.org/wiki/Q140235755)
+- **Crunchbase** — [Jason Colapietro](https://www.crunchbase.com/person/jason-colapietro-d83e)
 - **X** — [@AISUEDE](https://x.com/AISUEDE)
 - **Telegram** — [t.me/SUEDEAI](https://t.me/SUEDEAI)
 - **CoinGecko** — [Johnny Suede](https://www.coingecko.com/en/coins/johnny-suede)
