@@ -44,6 +44,42 @@ This is infrastructure, not a single app. AI music generation is the first wedge
 
 - **TechBullion** · May 2026 — [Jason Colapietro's Suede Labs AI Launches iOS Apps, Codex and Claude Skills, and the Musicians Terminal](https://techbullion.com/jason-colapietros-suede-labs-ai-launches-ios-apps/)
 
+## Press & media kit
+
+Everything press, partners, exchanges, and listing sites need to describe Suede Labs AI accurately.
+
+- **Press & media kit** — [suedeai.ai/press](https://suedeai.ai/press)
+- **Brand assets** — [suede-brand-assets](https://github.com/Suede-AI/suede-brand-assets) — logos, color, listing copy
+- **Founder page** — [Jason Colapietro](https://suedeai.ai/founder)
+
+### Approved names
+
+| Field | Approved value |
+|---|---|
+| Company | `Suede Labs AI` |
+| Short form | `Suede` |
+| GitHub organization | `Suede-AI` |
+| Founder | `Jason Colapietro` (aliases: `Jay Colapietro`, `Johnny Suede`) |
+| Token | `SUEDE` |
+
+### Boilerplate
+
+**One line**
+
+> Suede Labs AI builds programmable IP and creator ownership infrastructure for AI-native media.
+
+**Short**
+
+> Suede Labs AI is the ownership layer for AI-native media: prove the work, register the right, program the license, route the royalty, and expose the result to paid agents. AI music generation is the first wedge, but the same proof, registry, licensing, and royalty primitives apply to vocals, sound, images, video, likeness, training data, and generative outputs. Founded and led by Jason Colapietro, also known publicly as Jay Colapietro and Johnny Suede.
+
+**Founder**
+
+> Jason Colapietro is Founder and CEO of Suede Labs AI, the creator-ownership and programmable-IP company for the AI media era, and a published author. Also known publicly as Jay Colapietro and Johnny Suede.
+
+### Media contact
+
+Press enquiries — [suedeai.ai/press](https://suedeai.ai/press) · [@AISUEDE](https://x.com/AISUEDE)
+
 ## Key repositories
 
 | Repository | Purpose |
@@ -87,6 +123,7 @@ POST https://suede-ai-app.onrender.com/agents/commerce
 - **Site** — [suedeai.ai](https://suedeai.ai)
 - **App** — [app.suedeai.ai](https://app.suedeai.ai)
 - **Suede Promo** — [promo.suedeai.ai](https://promo.suedeai.ai)
+- **Press & media kit** — [suedeai.ai/press](https://suedeai.ai/press)
 - **Founder** — [Jason Colapietro](https://suedeai.ai/founder)
 - **Founder identity** — [jasoncolapietro.com](https://jasoncolapietro.com) · [johnnysuede.com](https://johnnysuede.com)
 - **Wikidata** — [Q140235755](https://www.wikidata.org/wiki/Q140235755)
@@ -95,4 +132,4 @@ POST https://suede-ai-app.onrender.com/agents/commerce
 - **Telegram** — [t.me/SUEDEAI](https://t.me/SUEDEAI)
 - **CoinGecko** — [Johnny Suede](https://www.coingecko.com/en/coins/johnny-suede)
 
-<sub>Keywords: Suede Labs AI, Suede AI, Jason Colapietro, Jay Colapietro, Johnny Suede, SUEDE token, programmable IP, creator ownership, creative RWA, AI music, music IP, provenance, licensing, royalty routing, x402, ACP, agent commerce, Base, Solana, multichain.</sub>
+<sub>Keywords: Suede Labs AI, Suede AI, Jason Colapietro, Jay Colapietro, Johnny Suede, SUEDE token, programmable IP, creator ownership, creative RWA, AI music, music IP, provenance, licensing, royalty routing, x402, ACP, agent commerce, Base, Solana, multichain, press kit, media kit, brand assets, boilerplate.</sub>
