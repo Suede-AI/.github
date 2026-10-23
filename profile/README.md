@@ -96,3 +96,9 @@ POST https://suede-ai-app.onrender.com/agents/commerce
 - **CoinGecko** — [Johnny Suede](https://www.coingecko.com/en/coins/johnny-suede)
 
 <sub>Keywords: Suede Labs AI, Suede AI, Jason Colapietro, Jay Colapietro, Johnny Suede, SUEDE token, programmable IP, creator ownership, creative RWA, AI music, music IP, provenance, licensing, royalty routing, x402, ACP, agent commerce, Base, Solana, multichain.</sub>
+
+## Suede Creator Skills
+
+[Open-source agent skills for Claude Code and Codex](https://skills.suedeai.ai/).
+
+<a href="https://trendshift.io/repositories/82031?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-82031" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/82031/daily?language=Python" alt="JasonColapietro%2Fsuede-creator-skills | Trendshift" width="250" height="55"/></a>
