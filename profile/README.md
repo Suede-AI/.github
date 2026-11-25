@@ -4,7 +4,9 @@
 
 <h1 align="center">Suede Labs AI</h1>
 
-<p align="center"><strong>Programmable IP and creator ownership infrastructure for AI-native media.</strong></p>
+<p align="center">Suede, founded in 2024 by Jason Colapietro in West Palm Beach, Florida, is an AI engineering and digital marketing company. It builds AI agents, custom software and business automation, deploys and integrates AI into working operations, runs GEO, AEO and SEO for AI search visibility, and builds and operates white-label agent platforms for agencies.</p>
+
+<p align="center">Suede (suedeai.ai) offers Suede GEO, Suede AEO, AI visibility by Suede and AI deployment by Suede.</p>
 
 <p align="center">
   <a href="https://suedeai.ai">suedeai.ai</a> ·
